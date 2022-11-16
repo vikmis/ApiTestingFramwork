@@ -98,7 +98,7 @@ public class ExtentListeners implements ITestListener, ISuiteListener {
 
 	}
 
-	public void onFinish(ISuite suite) {
+	/*public void onFinish(ISuite suite) {
 
 		MonitoringMail mail = new MonitoringMail();
 
@@ -124,5 +124,5 @@ public class ExtentListeners implements ITestListener, ISuiteListener {
 		}
 
 	}
-
+*/
 }

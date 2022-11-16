@@ -1,4 +1,4 @@
-package com.w2a.ApiTestingFramwork.API;
+package com.w2a.ApiTestingFramwork.API.Strip;
 
 import static io.restassured.RestAssured.given;
 

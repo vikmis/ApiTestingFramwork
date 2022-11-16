@@ -1,4 +1,4 @@
-package com.w2a.ApiTestingFramwork.testcases;
+package com.w2a.ApiTestingFramwork.testcases.Strip;
 
 import static io.restassured.RestAssured.*;
 
@@ -13,8 +13,8 @@ import org.hamcrest.Matchers.*;*/
 
 import org.testng.annotations.Test;
 
-import com.w2a.ApiTestingFramwork.API.CreateCustomerAPI;
-import com.w2a.ApiTestingFramwork.API.DeleteCustomerAPI;
+import com.w2a.ApiTestingFramwork.API.Strip.CreateCustomerAPI;
+import com.w2a.ApiTestingFramwork.API.Strip.DeleteCustomerAPI;
 import com.w2a.ApiTestingFramwork.listeners.ExtentListeners;
 import com.w2a.ApiTestingFramwork.setUp.BaseTest;
 import com.w2a.ApiTestingFramwork.utilities.DataUtil;
